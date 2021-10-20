@@ -1,0 +1,103 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Angel Arturo Oramas Rojas # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+
+  # Actualiza tus datos de contacto
+  email: oramasrojas199angelarturo@hotmail.com
+  phone:
+  website: # No agregar http://
+  linkedin: www.linkedin.com/in/angel-oramas-740vur4pl
+  github: oramasangel
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: 16198999/Angel Oramas
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Team Work
+      link: # dejar en blanco
+
+    - item: Time Management
+      link: # dejar en blanco
+
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    I am a recent graduate of the software engineering career, I like to learn new technologies and work in a team. I like video games and I want to learn to create my own game it doesn't matter how simple it is
+
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Software Engineering
+    university: Universidad Politécnica del Centro
+    time: 2017 Sept - 2020 Dec
+    details: |
+
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: Front-end Developer for Web Application
+    time: 2020 Sept - 2020 Dec
+    company: SEDENER, Tabasco-México
+    details: |
+      Development of a web application for the final project of the software engineering degree, 
+      using the Ruby on Rails framework and the development model in stages
+      
+  - role: Front-end Developer for Web Application
+    time: 2021 Jul - 2021 Sept
+    company: BrightCoders Academy, Colima-México
+    details: |
+      Development of a web application for the final project of the BrightCoders Academy boot camp,
+      using Ruby on Rails framework
+
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: Java
+      level: 40%
+
+    - name: Ruby
+      level: 40%
+
+    - name: HTML
+      level: 60%
+
+    - name: CSS
+      level: 60%
+
+    - name: sql
+      level: 60%
+
+
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
